@@ -19,8 +19,8 @@
 
 <h3 align="left"><img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width:100%;">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100019046824688" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="https://www.facebook.com/profile.php?id=100019046824688" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ngochung1762" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="https://www.hackerrank.com/ngochung1762" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100019046824688" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="https://www.facebook.com/profile.php?id=100019046824688" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ngochung1762" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="https://www.hackerrank.com/ngochung1762" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="max-width:100%;">Languages and Tools:</h3>
