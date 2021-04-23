@@ -1,7 +1,17 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Chung</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<p align="center">
+  <img src="https://github.com/jvjspy/jvjspy/react.gif" height="200"/>
+</p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvjspy&label=Profile%20views&color=0e75b6&style=flat" alt="jvjspy" /> </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Vietnamese%20%26%20English-brightgreen" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Chung</h1>
+<h3 align="center">A passionate backend developer from Vietnam</h3>
 
 - 🌱 I’m currently learning **React, Spring Boot**
 
