@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jvjspy/jvjspy/react.gif" height="200"/>
+  <img src="https://github.com/jvjspy/jvjspy/blob/main/react.gif" height="200"/>
 </p>
 <br>
 
